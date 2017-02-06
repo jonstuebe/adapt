@@ -1,0 +1,17 @@
+html, body { width: 100%; height: 100%; overflow: hidden; }
+body {
+  background-color: #ECECEC;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  -webkit-user-select: none !important;
+  user-select: none !important;
+  -webkit-app-region: drag !important;
+}
+
+.App {
+  /*text-align: center;*/
+}
+
+pre {
+  padding: 0;
+  user-select: text !important;
+}
